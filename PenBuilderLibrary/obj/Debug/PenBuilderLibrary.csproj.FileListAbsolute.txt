@@ -1,0 +1,6 @@
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\PenBuilderLibrary\bin\Debug\PenBuilderLibrary.dll
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\PenBuilderLibrary\bin\Debug\PenBuilderLibrary.pdb
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\PenBuilderLibrary\obj\Debug\PenBuilderLibrary.csproj.AssemblyReference.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\PenBuilderLibrary\obj\Debug\PenBuilderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\PenBuilderLibrary\obj\Debug\PenBuilderLibrary.dll
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\PenBuilderLibrary\obj\Debug\PenBuilderLibrary.pdb

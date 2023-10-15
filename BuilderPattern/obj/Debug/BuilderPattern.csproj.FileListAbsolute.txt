@@ -1,0 +1,10 @@
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\obj\Debug\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\obj\Debug\BuilderPattern.pdb
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\bin\Debug\PenBuilderLibrary.dll
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\bin\Debug\PenBuilderLibrary.pdb
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Builder\BuilderPattern\obj\Debug\BuilderPattern.csproj.CopyComplete
